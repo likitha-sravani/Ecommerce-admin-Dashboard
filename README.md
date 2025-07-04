@@ -16,17 +16,6 @@ A full-featured admin dashboard for managing farm products, orders, inventory, a
 - Real-time sales tracking and analytics
 - Responsive dashboard UI
 
-## Project Structure
-```
-ecommerce/
-│
-├── backend/         # Django project
-├── frontend/        # React app
-├── docker-compose.yml
-├── Dockerfile.backend
-├── Dockerfile.frontend
-└── README.md
-```
 
 ## Getting Started
 
@@ -40,11 +29,3 @@ ecommerce/
    ```
    docker-compose up --build
    ```
-4. Access the frontend at `http://localhost:3000` and backend API at `http://localhost:8000`
-
-## Deployment
-- Ready for AWS/GCP deployment (see Dockerfiles and environment variables)
-
----
-
-For detailed instructions, see each service's README or documentation. 
