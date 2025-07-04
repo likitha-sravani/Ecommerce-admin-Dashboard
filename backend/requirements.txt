@@ -1,0 +1,14 @@
+Django>=4.2
+djangorestframework
+django-cors-headers
+channels
+channels-redis
+psycopg2-binary
+django-environ
+daphne 
+Pillow
+django-filter
+drf_yasg
+django-extensions
+djangorestframework-simplejwt
+
