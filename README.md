@@ -29,11 +29,10 @@ A full-featured admin dashboard for managing farm products, orders, inventory, a
 
 ##Output
 ![WhatsApp Image 2025-07-04 at 23 38 21_b4de6831](https://github.com/user-attachments/assets/a2cfd054-6b16-4c3d-a331-3cbe7d65fea5)
+![image](https://github.com/user-attachments/assets/2e01b68f-0132-4131-8031-19702cb32724)
 
-![WhatsApp Image 2025-07-04 at 23 39 23_90528004](https://github.com/user-attachments/assets/89dbc9f7-7d44-42e3-bda1-c50dfbacc8ff)
+![image](https://github.com/user-attachments/assets/b7a26045-baa9-4a68-a26d-d1d868649784)
 
-![WhatsApp Image 2025-07-04 at 23 39 44_f9e754fa](https://github.com/user-attachments/assets/ec2d0ef1-3138-4cf8-b665-d9aca4df9e03)
+![image](https://github.com/user-attachments/assets/2158811f-06a4-4a8b-a71a-f0b1d3f956f0)
 
-![WhatsApp Image 2025-07-04 at 23 40 17_63523cf8](https://github.com/user-attachments/assets/97dd7528-7fe5-4aab-a15e-d912b4629ab0)
-
-![WhatsApp Image 2025-07-04 at 23 40 47_ac368616](https://github.com/user-attachments/assets/37364ef2-9da5-4c31-825e-b99f6cf3ca15)
+![image](https://github.com/user-attachments/assets/cef15648-5046-4384-9335-aaa61902d8d2)
